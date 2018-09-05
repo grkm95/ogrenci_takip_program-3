@@ -1,0 +1,95 @@
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.pdb
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form1.resources
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form2.resources
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Properties.Resources.resources
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.exe
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.pdb
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form3.resources
+C:\Users\admin\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.ana.resources
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.exe
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.pdb
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.pdb
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.ana.resources
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form1.resources
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form2.resources
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form3.resources
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Properties.Resources.resources
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\admin\Desktop\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.exe
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.pdb
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.pdb
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csprojResolveAssemblyReference.cache
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.ana.resources
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form1.resources
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form2.resources
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form3.resources
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Properties.Resources.resources
+C:\Users\gorkemm\Desktop\New folder\ÖğrenciTakipProgramı\Öğrenci Takip Programı\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csproj.GenerateResource.Cache
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.exe
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.pdb
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.pdb
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csprojResolveAssemblyReference.cache
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.ana.resources
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form1.resources
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form2.resources
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form3.resources
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Properties.Resources.resources
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csproj.GenerateResource.Cache
+C:\Users\gorke\Documents\Visual Studio 2013\Projects\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe.config
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe.config
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.exe
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.pdb
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.pdb
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csprojResolveAssemblyReference.cache
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.ana.resources
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form1.resources
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form2.resources
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form3.resources
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Properties.Resources.resources
+C:\Users\3521\Documents\Visual Studio 2013\Projects\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csproj.GenerateResource.Cache
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe.config
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.exe
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.pdb
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.pdb
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csprojResolveAssemblyReference.cache
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.ana.resources
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form1.resources
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form2.resources
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form3.resources
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Properties.Resources.resources
+C:\Users\TR26009\Desktop\ezgi_proje\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csproj.GenerateResource.Cache
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe.config
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.exe
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.pdb
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.pdb
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csprojResolveAssemblyReference.cache
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.ana.resources
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form1.resources
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form2.resources
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form3.resources
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Properties.Resources.resources
+C:\Users\gorke\Desktop\Dökümanlar\ezgi_proje22\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csproj.GenerateResource.Cache
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe.config
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.exe
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.pdb
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.exe
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\bin\Debug\ogrenci_takip_programı.pdb
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csprojResolveAssemblyReference.cache
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.ana.resources
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form1.resources
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form2.resources
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Form3.resources
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.Properties.Resources.resources
+C:\Users\gorke\Desktop\ogrenci_takip_programı\ogrenci_takip_programı\obj\Debug\ogrenci_takip_programı.csproj.GenerateResource.Cache
